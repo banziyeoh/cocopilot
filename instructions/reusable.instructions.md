@@ -1,6 +1,6 @@
 ---
 applyTo: "src/screens/**"
-task: "Split components into separate files"
+description: "Split components into separate files"
 ---
 
 # Component Extraction Instructions
