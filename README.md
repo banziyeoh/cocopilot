@@ -28,3 +28,20 @@ E2E Workflow Ochestrator
 - DISPATCH-REFERENCE
 - WORKFLOW
 
+
+# Microservice API OE Checklist [agents/microservice-api-oe-checklist.agent.md]
+
+## Subagents
+- Architecture Review Agent[agents/architecture-review.agent.md]
+- Security Agent[agents/security.agent.md]
+- Code Reviewer[agents/code-reviewer.md]
+- Software Quality Assurance Agent[agents/qa.agent.md]
+- Observability Agent[agents/observability.agent.md]
+- Deployment Agent[agents/deployment.agent.md]
+- Database Reviewer[agents/database-reviewer.md]
+- Compliance Auditor Agent[agents/compliance-auditor.agent.md]
+
+## Skills
+- Reliability Strategy builder[skills/reliability-strategy-builder]
+- Scalability Playbook[skills/scalability-playbook]
+- Auth Security Reviewer[skills/auth-security-reviewer]
