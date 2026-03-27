@@ -46,9 +46,7 @@ E2E Workflow Ochestrator
 - Scalability Playbook[skills/scalability-playbook]
 - Auth Security Reviewer[skills/auth-security-reviewer]
 
-
-
-| **API OE Checklist Agent** | api-oe-checklist.agent.md | Agent (Orchestrator) |
+# API OE Checklist Agent [api-oe-checklist.agent.md]
 
 **Skill Dependencies:** `oe-compliance-engine`, `reliability-strategy-builder`, `scalability-playbook`, `auth-security-reviewer`, `api-design`, `api-versioning-deprecation-planner`, `api-security-hardener`, `observability-setup`, `contract-testing-builder`, `input-validation-sanitization-auditor`, `secrets-scanner`, `openapi-generator`, `structured-logging-standardizer`, `threat-model-generator`
 
