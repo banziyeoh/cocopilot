@@ -28,6 +28,19 @@ E2E Workflow Ochestrator
 - DISPATCH-REFERENCE
 - WORKFLOW
 
+# Frontend OE Checklist [agents/fe-oe-checklist.agent.md]
+## Subagents
+- Security Agent
+- Accessbility Expert Agent
+- React Native Performance Expert Agent
+- UI/UX Designer Agent
+- Architecture Review Agent
+- Observability Agent
+- Software Quality Assurance Agent
+
+## Skils
+ `architecture-patterns`, `frontend-dev`, `react`, `react-native`, `accessibility-auditor`, `auth-security-reviewer`, `api-design`, `observability-setup`, `structured-logging-standardizer`, `input-validation-sanitization-auditor`, `secrets-scanner`, `threat-model-generator`, `core-web-vitals-tuner`, `performance-budget-setter`, `unit-testing`, `e2e-testing`, `coverage-strategist`
+
 
 # Microservice API OE Checklist [agents/microservice-api-oe-checklist.agent.md]
 
