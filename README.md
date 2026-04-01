@@ -106,3 +106,9 @@ User invokes
 ```
 
 **Total: 9 agents + 1 skill | 43 checklist items | 19 unique skill dependencies**
+
+
+# Project Metadata Generator Agent
+## Skills
+architecture-blueprint-generator
+architecture-patterns
